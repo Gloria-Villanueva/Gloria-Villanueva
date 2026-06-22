@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Holaa, soy Gloria Villanueva<img src="https://pixel-harmony.tumblr.com/post/47388349251" width="30px"> </h1>
+
+<h1 align="center">Hola, soy Gloria Villanueva<img src="https://i.pinimg.com/originals/51/b9/fc/51b9fc18660ea65b02abb995e92491e2.gif" width="30px"> </h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas Computacionales | ITESM </h3>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+  <legend align="left"><h3>👩🏻‍💻 Sobre mi</h3></legend>
 
   <em>
 Descripción de mi persona en 3-4 renglones.</p>
   </em> 
   <br>
 <div align= "center">
-  <img src="https://i.pinimg.com/originals/ca/39/3e/ca393eeebe754ff26afd2507e7da19c3.gif" width="50"/> <b><i>Tecnologias en aprendizaje</i></b> 
+  <img src="https://i.pinimg.com/originals/51/b9/fc/51b9fc18660ea65b02abb995e92491e2.gif" width="30px"/> <b><i>Tecnologias en aprendizaje</i></b> 
 </div>
 
 <br>
@@ -29,7 +29,6 @@ Descripción de mi persona en 3-4 renglones.</p>
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
@@ -66,9 +65,9 @@ Descripción de mi persona en 3-4 renglones.</p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/krisnarane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisnarane&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisnarane&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
+  <a href="https://github.com/Gloria-Villanueva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloria-Villanueva&show_icons=true&include_all_commits=true&count_private=true&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&icon_color=F85AFF&border_color=E94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloria-Villanueva&layout=compact&langs_count=7&bg_color=1F1D36&title_color=E94560&text_color=FFE3E3&border_color=E94560"/>
   </a>
 </div>
 
